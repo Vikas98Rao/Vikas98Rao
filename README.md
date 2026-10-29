@@ -1,14 +1,14 @@
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Vikas%20Rao&fontSize=90&color=0:0d1117,100:0d1117&stroke=58a6ff&strokeWidth=3&fontColor=58a6ff&animation=fadeIn&fontAlignY=55&desc=Senior%20DevOps%20%E2%80%A2%20DevSecOps%20Engineer%20%E2%80%A2%20Cloud%20Architect&descSize=20&descAlignY=75&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Vikas%20Rao&fontSize=90&color=0:0d1117,100:0d1117&stroke=58a6ff&strokeWidth=3&fontColor=58a6ff&animation=fadeIn&fontAlignY=55&desc=Senior%20DevOps%20Engineer%20%E2%80%A2%20DevSecOps%20Specialist%20%E2%80%A2%20Platform%20Engineering&descSize=20&descAlignY=75&descColor=8b949e" width="100%"/>
 
 </div>
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&random=true&width=700&height=55&lines=⚡+6+Years+of+Breaking+Prod...+and+Fixing+It+Faster;🏗️+Architected+100%2B+Enterprise+Cloud+Migrations;🛡️+Zero+Trust+%7C+Zero+Downtime+%7C+Zero+Excuses;🔥+FinOps+Wizard+%7C+Saved+28%25+Cloud+Spend;☁️+Azure+CAF+%7C+Landing+Zones+%7C+DevSecOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&random=true&width=700&height=55&lines=⚡+6+Years+of+Breaking+Prod...+and+Fixing+It+Faster;🏗️+Delivered+100%2B+Enterprise+Cloud+Migrations;🛡️+Zero+Trust+%7C+Zero+Downtime+%7C+Zero+Excuses;🔥+FinOps+Specialist+%7C+Saved+28%25+Cloud+Spend;☁️+Azure+CAF+%7C+Landing+Zones+%7C+DevSecOps)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,7 +23,7 @@
 &nbsp;
 ![DevOps](https://img.shields.io/badge/🛡️_DevSecOps-5_Years-ff6e6e?style=flat-square)
 &nbsp;
-![Open to Work](https://img.shields.io/badge/💼_Open_To-Architect_Roles-f0a500?style=flat-square)
+![Open to Work](https://img.shields.io/badge/💼_Open_To-Senior_DevOps_%7C_DevSecOps_Roles-f0a500?style=flat-square)
 
 </div>
 
@@ -39,7 +39,7 @@
 ```typescript
 const vikas = {
   name       : "Vikas Rao",
-  title      : "Senior DevOps | DevSecOps | Cloud Architect",
+  title      : "Senior DevOps Engineer | DevSecOps Specialist",
   experience : "6 Years IT · 5 Years DevOps/DevSecOps",
   location   : "India 🇮🇳",
   currentMission: [
@@ -382,7 +382,7 @@ const vikas = {
 
 ## 🤝 &nbsp;Let's Build Something Extraordinary
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikasrao)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikasrao0054/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikas98Rao)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@vikasrao)
@@ -392,7 +392,7 @@ const vikas = {
 
 > 💬 *"I don't just deploy infrastructure — I architect confidence at scale."*
 >
-> **— Vikas Rao, Senior DevOps & Cloud Architect**
+> **— Vikas Rao, Senior DevOps & DevSecOps Engineer**
 
 </div>
 
