@@ -210,8 +210,8 @@ const vikas = {
 
 <br/>
 
-<!-- ═══════════════════ ARCHITECTURE DIAGRAM ═══════════════════ -->
-## 🏗️ &nbsp;What I Architect
+<!-- ═══════════════════ INFRASTRUCTURE DESIGN ═══════════════════ -->
+## 🏗️ &nbsp;How I Design Enterprise Systems
 
 <div align="center">
 
@@ -384,13 +384,10 @@ const vikas = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikasrao0054/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikas98Rao)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@vikasrao)
-[![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 
 <br/>
 
-> 💬 *"I don't just deploy infrastructure — I architect confidence at scale."*
+> 💬 *"Build it secure from day one — pipelines, infra, culture. Security is not a feature, it's a foundation."*
 >
 > **— Vikas Rao, Senior DevOps & DevSecOps Engineer**
 
@@ -398,32 +395,10 @@ const vikas = {
 
 <br/>
 
-<!-- ═══════════════════ RANDOM DEV QUOTE ═══════════════════ -->
+
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════ PROFILE SUMMARY CARDS ═══════════════════ -->
-<div align="center">
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vikas98Rao&theme=github_dark)](https://github.com/Vikas98Rao)
-
-<a href="https://github.com/Vikas98Rao">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vikas98Rao&theme=github_dark" height="180em"/>
-</a>
-<a href="https://github.com/Vikas98Rao">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vikas98Rao&theme=github_dark" height="180em"/>
-</a>
-<a href="https://github.com/Vikas98Rao">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vikas98Rao&theme=github_dark" height="180em"/>
-</a>
-<a href="https://github.com/Vikas98Rao">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vikas98Rao&theme=github_dark&utcOffset=5.5" height="180em"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Vikas98Rao&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="60%"/>
 
 </div>
 
