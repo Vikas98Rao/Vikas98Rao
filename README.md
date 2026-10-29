@@ -163,12 +163,22 @@ const vikas = {
 
 <br/>
 
-<!-- ═══════════════════ TROPHIES ═══════════════════ -->
+<!-- ═══════════════════ SPECIALIZATIONS ═══════════════════ -->
 <div align="center">
 
-## 🏆 &nbsp;GitHub Trophies
+## 🏆 &nbsp;Core Specializations
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vikas98Rao&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+![Cloud Architecture](https://img.shields.io/badge/☁️_Cloud_Architecture-Enterprise_Azure_CAF-0078D4?style=for-the-badge)
+![DevSecOps](https://img.shields.io/badge/🛡️_DevSecOps-Shift_Left_Security-ff6e6e?style=for-the-badge)
+![IaC](https://img.shields.io/badge/🏗️_Infrastructure_as_Code-Terraform_%7C_Bicep-7B42BC?style=for-the-badge)
+
+![Migration](https://img.shields.io/badge/🌍_Cloud_Migration-100%2B_Workloads-00d26a?style=for-the-badge)
+![FinOps](https://img.shields.io/badge/💸_FinOps-28%25_Cost_Reduction-f0a500?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/🐳_Kubernetes-AKS_%7C_GitOps_%7C_Helm-326CE5?style=for-the-badge)
+
+![Governance](https://img.shields.io/badge/📋_Governance-Azure_Policy_%7C_RBAC_%7C_PIM-8b949e?style=for-the-badge)
+![Observability](https://img.shields.io/badge/📊_Observability-Azure_Monitor_%7C_Grafana-F46800?style=for-the-badge)
+![Leadership](https://img.shields.io/badge/🤝_Leadership-Mentoring_%7C_Pre--Sales_%7C_SOW-58a6ff?style=for-the-badge)
 
 </div>
 
@@ -179,23 +189,20 @@ const vikas = {
 
 ## 📈 &nbsp;GitHub Statistics
 
-<a href="https://github.com/Vikas98Rao">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Vikas98Rao&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&rank_icon=github"/>
-</a>
-<a href="https://github.com/Vikas98Rao">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas98Rao&layout=donut&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide=html,css"/>
-</a>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Vikas98Rao&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" height="185em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Vikas98Rao&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="70%"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════ PROFILE SUMMARY CARD ═══════════════════ -->
+<!-- ═══════════════════ CONTRIBUTION GRAPH ═══════════════════ -->
 <div align="center">
 
-[![Vikas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikas98Rao&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f3a6e&hide_border=true&custom_title=Contribution+Activity+Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🟩 &nbsp;Contribution Calendar
+
+<a href="https://github.com/Vikas98Rao">
+  <img src="https://ghchart.rshah.org/58a6ff/Vikas98Rao" alt="Vikas Rao's GitHub Contribution Chart" width="95%"/>
+</a>
 
 </div>
 
