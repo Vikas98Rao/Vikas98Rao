@@ -1,18 +1,18 @@
-<!-- ═══════════════════ HEADER ═══════════════════ -->
+<!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Vikas%20Rao&fontSize=90&color=0:0d1117,100:0d1117&stroke=58a6ff&strokeWidth=3&fontColor=58a6ff&animation=fadeIn&fontAlignY=55&desc=Senior%20DevOps%20Engineer%20%E2%80%A2%20DevSecOps%20Specialist%20%E2%80%A2%20Platform%20Engineering&descSize=20&descAlignY=75&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Vikas%20Rao&fontSize=95&color=0:0d1117,100:0d1117&stroke=58a6ff&strokeWidth=3&fontColor=58a6ff&animation=fadeIn&fontAlignY=52&desc=Senior%20DevOps%20Engineer%20%E2%80%A2%20DevSecOps%20Architect%20%E2%80%A2%20Platform%20Engineering&descSize=21&descAlignY=72&descColor=8b949e" width="100%"/>
 
 </div>
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&random=true&width=700&height=55&lines=⚡+6+Years+of+Breaking+Prod...+and+Fixing+It+Faster;🏗️+Delivered+100%2B+Enterprise+Cloud+Migrations;🛡️+Zero+Trust+%7C+Zero+Downtime+%7C+Zero+Excuses;🔥+FinOps+Specialist+%7C+Saved+28%25+Cloud+Spend;☁️+Azure+CAF+%7C+Landing+Zones+%7C+DevSecOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&random=true&width=750&height=55&lines=⚡+6+Years+of+Breaking+Prod...+and+Fixing+It+Faster;🏗️+Delivered+100%2B+Enterprise+Cloud+Migrations;🛡️+Zero+Trust+%7C+Zero+Downtime+%7C+Zero+Excuses;🔥+FinOps+Specialist+%7C+Saved+28%25+Cloud+Spend;☁️+Azure+CAF+%7C+Landing+Zones+%7C+DevSecOps;🚀+AKS+%7C+GitOps+%7C+ArgoCD+%7C+Istio+Service+Mesh)](https://git.io/typing-svg)
 
 </div>
 
-<!-- ═══════════════════ BADGES ═══════════════════ -->
+<!-- ═══════════════════ STATUS BADGES ═══════════════════ -->
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vikas98Rao&label=👁️+Profile+Views&color=58a6ff&style=flat-square)
@@ -23,13 +23,13 @@
 &nbsp;
 ![DevOps](https://img.shields.io/badge/🛡️_DevSecOps-5_Years-ff6e6e?style=flat-square)
 &nbsp;
-![Open to Work](https://img.shields.io/badge/💼_Open_To-Senior_DevOps_%7C_DevSecOps_Roles-f0a500?style=flat-square)
+![Open to Work](https://img.shields.io/badge/💼_Open_To-Senior_DevOps_%7C_DevSecOps_Roles-f0a500?style=flat-square&logo=microsoftazure&logoColor=white)
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════ ABOUT ME — SIDE BY SIDE ═══════════════════ -->
+<!-- ═══════════════════ WHO AM I ═══════════════════ -->
 <table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="55%" valign="top">
@@ -39,15 +39,18 @@
 ```typescript
 const vikas = {
   name       : "Vikas Rao",
-  title      : "Senior DevOps Engineer | DevSecOps Specialist",
+  title      : "Senior DevOps Engineer | DevSecOps Architect",
   experience : "6 Years IT · 5 Years DevOps/DevSecOps",
   location   : "India 🇮🇳",
-  currentMission: [
-    "Scaling infrastructure to infinity",
-    "Making security a first-class citizen",
-    "Turning legacy chaos → cloud elegance"
+  expertise  : [
+    "Azure Enterprise Landing Zones (CAF)",
+    "DevSecOps — Shift-Left Security",
+    "Kubernetes Platform Engineering",
+    "FinOps & Cloud Cost Optimization",
+    "SRE & Observability at Scale"
   ],
-  superpower : "Building things that don't break at 3AM",
+  superpower : "Building infra that doesn't wake you at 3AM",
+  currently  : "Open to Senior DevOps / Platform Eng roles",
   fun_fact   : "I automate myself out of boring tasks... recursively"
 };
 ```
@@ -55,7 +58,7 @@ const vikas = {
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="DevOps Engineering Animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="330" alt="DevOps Engineering Animation"/>
 
 </td>
 </tr>
@@ -74,20 +77,38 @@ const vikas = {
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/100%2B-Workloads%20Migrated-1f6feb?style=for-the-badge&logo=microsoftazure&logoColor=white"/><br/>
-      <sub>Zero downtime. All environments.</sub>
+      <img src="https://img.shields.io/badge/100%2B-Cloud%20Workloads%20Migrated-1f6feb?style=for-the-badge&logo=microsoftazure&logoColor=white"/><br/>
+      <sub><b>Zero downtime. All environments.</b></sub>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/28%25-Cloud%20Cost%20Reduced-00d26a?style=for-the-badge&logo=cashapp&logoColor=white"/><br/>
-      <sub>FinOps + rightsizing strategies</sub>
+      <sub><b>FinOps + rightsizing strategies</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/50%2B-Pipelines%20Secured-ff6e6e?style=for-the-badge&logo=githubactions&logoColor=white"/><br/>
-      <sub>Shift-left. Shift-everywhere.</sub>
+      <img src="https://img.shields.io/badge/50%2B-CI%2FCD%20Pipelines%20Secured-ff6e6e?style=for-the-badge&logo=githubactions&logoColor=white"/><br/>
+      <sub><b>Shift-left DevSecOps at scale</b></sub>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/20%2B-Engineers%20Mentored-f0a500?style=for-the-badge&logo=academia&logoColor=white"/><br/>
-      <sub>KT sessions, reviews & growth</sub>
+      <sub><b>KT sessions, reviews & growth</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/5%2B-Azure%20Landing%20Zones-7B42BC?style=for-the-badge&logo=microsoftazure&logoColor=white"/><br/>
+      <sub><b>Enterprise CAF-aligned deployments</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/99.95%25-SLO%20Achievement-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/><br/>
+      <sub><b>SRE disciplines & error budget mgmt</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/10%2B-AKS%20Clusters%20Managed-0078D4?style=for-the-badge&logo=kubernetes&logoColor=white"/><br/>
+      <sub><b>GitOps · Istio · OPA Gatekeeper</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/3-Azure%20Certifications-E6522C?style=for-the-badge&logo=microsoftazure&logoColor=white"/><br/>
+      <sub><b>AZ-104 · AZ-400 · AZ-500</b></sub>
     </td>
   </tr>
 </table>
@@ -137,14 +158,15 @@ const vikas = {
 [![tfsec](https://img.shields.io/badge/tfsec-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://tfsec.dev)
 [![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)](https://sonarqube.org)
 [![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org)
-[![Defender](https://img.shields.io/badge/MS_Defender-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/azure/defender-for-cloud/)
+[![Defender](https://img.shields.io/badge/MS_Defender_for_Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/azure/defender-for-cloud/)
 
 <!-- ROW 5 -->
-**📊 Observability & Monitoring**
+**📊 Observability & SRE**
 
 [![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/products/monitor)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com)
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io)
+[![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/oss/loki/)
 [![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)](https://datadog.com)
 [![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)](https://elastic.co)
 
@@ -163,54 +185,100 @@ const vikas = {
 
 <br/>
 
-<!-- ═══════════════════ SPECIALIZATIONS ═══════════════════ -->
+<!-- ═══════════════════ CERTIFICATIONS ═══════════════════ -->
 <div align="center">
 
-## 🏆 &nbsp;Core Specializations
+## 🏅 &nbsp;Certifications
 
-![Cloud Architecture](https://img.shields.io/badge/☁️_Cloud_Architecture-Enterprise_Azure_CAF-0078D4?style=for-the-badge)
-![DevSecOps](https://img.shields.io/badge/🛡️_DevSecOps-Shift_Left_Security-ff6e6e?style=for-the-badge)
-![IaC](https://img.shields.io/badge/🏗️_Infrastructure_as_Code-Terraform_%7C_Bicep-7B42BC?style=for-the-badge)
-
-![Migration](https://img.shields.io/badge/🌍_Cloud_Migration-100%2B_Workloads-00d26a?style=for-the-badge)
-![FinOps](https://img.shields.io/badge/💸_FinOps-28%25_Cost_Reduction-f0a500?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/🐳_Kubernetes-AKS_%7C_GitOps_%7C_Helm-326CE5?style=for-the-badge)
-
-![Governance](https://img.shields.io/badge/📋_Governance-Azure_Policy_%7C_RBAC_%7C_PIM-8b949e?style=for-the-badge)
-![Observability](https://img.shields.io/badge/📊_Observability-Azure_Monitor_%7C_Grafana-F46800?style=for-the-badge)
-![Leadership](https://img.shields.io/badge/🤝_Leadership-Mentoring_%7C_Pre--Sales_%7C_SOW-58a6ff?style=for-the-badge)
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/AZ--104-Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/><br/>
+      <sub>Microsoft Certified</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/AZ--400-DevOps%20Engineer%20Expert-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/><br/>
+      <sub>Microsoft Certified</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/AZ--500-Security%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/><br/>
+      <sub>Microsoft Certified</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/CKA-Kubernetes%20Admin-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/><br/>
+      <sub>CNCF — In Progress</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
+<!-- ═══════════════════ FEATURED REPOS ═══════════════════ -->
 <div align="center">
 
-## 📈 &nbsp;GitHub Statistics
+## 🗂️ &nbsp;Featured Portfolio Projects
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Vikas98Rao&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="70%"/>
+> Real-world enterprise patterns — not toy examples. Built the way I build at work.
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════ CONTRIBUTION GRAPH ═══════════════════ -->
-<div align="center">
-
-## 🟩 &nbsp;Contribution Calendar
-
-<a href="https://github.com/Vikas98Rao">
-  <img src="https://ghchart.rshah.org/58a6ff/Vikas98Rao" alt="Vikas Rao's GitHub Contribution Chart" width="95%"/>
-</a>
-
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏗️ <a href="https://github.com/Vikas98Rao/azure-enterprise-landing-zone">Azure Enterprise Landing Zone</a></h3>
+      <p>Production-grade Azure Landing Zone aligned with CAF. Hub-and-Spoke networking, Management Groups, RBAC with PIM, and Policy-as-Code across 5+ subscriptions.</p>
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CAF-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/Vikas98Rao/devsecops-pipeline-templates">DevSecOps Pipeline Templates</a></h3>
+      <p>Reusable CI/CD templates with security gates at every stage — GitLeaks, Checkov, Trivy, SonarQube, OWASP, Infracost. Drop-in for Azure DevOps & GitHub Actions.</p>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐳 <a href="https://github.com/Vikas98Rao/aks-kubernetes-platform">AKS Kubernetes Platform</a></h3>
+      <p>Enterprise AKS with GitOps (ArgoCD), Istio mTLS service mesh, OPA Gatekeeper admission control, zero-trust network policies, and Key Vault CSI secrets.</p>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💰 <a href="https://github.com/Vikas98Rao/finops-cloud-cost-optimization">FinOps Cost Optimization Toolkit</a></h3>
+      <p>Delivered 28% cloud cost reduction — automated rightsizing advisor, RI coverage analysis, idle resource detection, mandatory tagging policies, and Grafana dashboards.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 <a href="https://github.com/Vikas98Rao/azure-migration-toolkit">Azure Migration Toolkit</a></h3>
+      <p>Battle-tested toolkit for 100+ enterprise cloud migrations — wave planning, dependency mapping, pre-cutover checklists, automated validation, and rollback runbooks.</p>
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Azure_Migrate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/Vikas98Rao/sre-observability-stack">SRE Observability Stack</a></h3>
+      <p>Full-stack observability on Kubernetes — Prometheus + Thanos, Grafana, Loki, Tempo, OpenTelemetry. SLO/SLI dashboards, error budget tracking, PagerDuty alerting.</p>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3" width="100%"/>
 
 <br/>
 
-<!-- ═══════════════════ INFRASTRUCTURE DESIGN ═══════════════════ -->
+<!-- ═══════════════════ ENTERPRISE ARCHITECTURE DIAGRAM ═══════════════════ -->
 ## 🏗️ &nbsp;How I Design Enterprise Systems
 
 <div align="center">
@@ -221,28 +289,28 @@ const vikas = {
          │                  (Hub & Spoke — CAF Aligned)                  │
          └──────────────────────────┬────────────────────────────────────┘
                                     │
-                        🏢 On-Premises DC
+                        🏢 On-Premises Datacenter
                                     │
-               ExpressRoute / S2S VPN Gateway
+               ExpressRoute / Site-to-Site VPN Gateway
                                     │
          ┌──────────────────────────▼────────────────────────────────────┐
          │           ☁️  HUB VNet  (Connectivity Subscription)           │
          │  ┌─────────────┐  ┌───────────────┐  ┌──────────────────┐    │
          │  │Azure Firewall│  │  VPN / ER GW  │  │ Private DNS Zones│    │
-         │  │  (Premium)  │  │               │  │                  │    │
+         │  │  (Premium)  │  │               │  │  (all PaaS)      │    │
          │  └──────┬──────┘  └───────────────┘  └──────────────────┘    │
          └─────────┼──────────────────────────────────────────────────── ┘
-                   │   VNet Peering + UDR (0.0.0.0/0 → Firewall)
-          ┌────────┴────────┐
-          │                 │
-  ┌───────▼───────┐ ┌───────▼──────────┐
-  │ Spoke: Apps   │ │ Spoke: Platform  │
-  │ ├─ App Tier   │ │ ├─ CI/CD Runners │
-  │ ├─ DB Tier    │ │ ├─ Bastion Host  │
-  │ └─ Pvt Endpts │ │ └─ Security Tools│
-  └───────────────┘ └──────────────────┘
+                   │    VNet Peering + UDR (0.0.0.0/0 → Firewall)
+          ┌────────┴────────┬──────────────────┐
+          │                 │                  │
+  ┌───────▼───────┐ ┌───────▼──────────┐ ┌────▼─────────────┐
+  │ Spoke: Apps   │ │ Spoke: Platform  │ │ Spoke: Data      │
+  │ ├─ AKS Cluster│ │ ├─ CI/CD Runners │ │ ├─ Azure SQL      │
+  │ ├─ App Gateway│ │ ├─ Bastion Host  │ │ ├─ Storage Accts  │
+  │ └─ Pvt Endpts │ │ └─ Security Tools│ │ └─ Key Vault CMK  │
+  └───────────────┘ └──────────────────┘ └──────────────────┘
 
-  ⚡ Policy-as-Code │ 🔐 Zero-Trust │ 🔑 PIM + RBAC │ 📊 Centralized Logs
+  Policy-as-Code │ Zero-Trust NSG │ PIM + RBAC │ Centralized Log Analytics
 ```
 
 </div>
@@ -255,40 +323,48 @@ const vikas = {
 <div align="center">
 
 ```
-  git push ──►  ┌─────────────────────────────────────────────────────────────┐
-                │                   🔄  CI STAGE                              │
-                │  tflint ──► terraform fmt ──► terraform validate            │
-                └─────────────────────────────┬───────────────────────────────┘
+  git push ──►  ┌──────────────────────────────────────────────────────────────┐
+                │                     🔄  CI / LINT                            │
+                │    tflint ──► terraform fmt ──► terraform validate           │
+                │    hadolint (Dockerfile) ──► yaml-lint ──► markdownlint      │
+                └─────────────────────────────┬────────────────────────────────┘
                                               │
-                              ┌───────────────▼──────────────┐
-                              │        🔍  SECURITY STAGE     │
-                              │  GitLeaks → Checkov → Trivy  │
-                              │  SonarQube → tfsec → OWASP   │
-                              └───────────────┬──────────────┘
+                              ┌───────────────▼──────────────────┐
+                              │         🔑  SECRET SCAN           │
+                              │   GitLeaks → truffleHog          │
+                              │   Block PR if ANY secret found   │
+                              └───────────────┬──────────────────┘
                                               │
-                              ┌───────────────▼──────────────┐
-                              │        💰  FINOPS GATE        │
-                              │  Infracost estimate + diff   │
-                              │  Cost delta approval trigger │
-                              └───────────────┬──────────────┘
+                              ┌───────────────▼──────────────────┐
+                              │       🛡️  SAST / SCA / IaC       │
+                              │  Checkov → tfsec → Trivy config  │
+                              │  SonarQube → Semgrep → OWASP DC  │
+                              └───────────────┬──────────────────┘
                                               │
-                              ┌───────────────▼──────────────┐
-                              │     👀  HUMAN APPROVAL GATE   │
-                              │  2 Senior Reviewers required │
-                              │  CODEOWNERS enforced on main │
-                              └───────────────┬──────────────┘
+                              ┌───────────────▼──────────────────┐
+                              │         💰  FINOPS GATE           │
+                              │  Infracost estimate + diff       │
+                              │  Auto-comment on PR with delta   │
+                              └───────────────┬──────────────────┘
                                               │
-                              ┌───────────────▼──────────────┐
-                              │        🚀  DEPLOY STAGE       │
-                              │   terraform apply (locked)   │
-                              │   Remote state in Azure Blob │
-                              └───────────────┬──────────────┘
+                              ┌───────────────▼──────────────────┐
+                              │      👀  HUMAN APPROVAL GATE      │
+                              │   2 Senior Reviewers + CODEOWNERS│
+                              │   Environment protection rules   │
+                              └───────────────┬──────────────────┘
                                               │
-                              ┌───────────────▼──────────────┐
-                              │   🔁  AUTO ROLLBACK on FAIL  │
-                              │   Drift detection nightly    │
-                              │   Alert → Teams / PagerDuty  │
-                              └──────────────────────────────┘
+                              ┌───────────────▼──────────────────┐
+                              │         🚀  DEPLOY STAGE          │
+                              │  terraform apply (state locked)  │
+                              │  Canary → Staging → Production   │
+                              └───────────────┬──────────────────┘
+                                              │
+                              ┌───────────────▼──────────────────┐
+                              │    🔁  POST-DEPLOY VALIDATION    │
+                              │  Smoke tests → SLO check         │
+                              │  Auto-rollback if SLO breached   │
+                              │  Alert → Slack / PagerDuty       │
+                              └──────────────────────────────────┘
 ```
 
 </div>
@@ -297,7 +373,7 @@ const vikas = {
 
 <br/>
 
-<!-- ═══════════════════ EXPERTISE TABLE ═══════════════════ -->
+<!-- ═══════════════════ DOMAIN EXPERTISE TABLE ═══════════════════ -->
 ## 🎖️ &nbsp;Domain Expertise
 
 <div align="center">
@@ -306,50 +382,50 @@ const vikas = {
   <thead>
     <tr>
       <th>🏅 Domain</th>
-      <th>📌 Highlights</th>
-      <th>🔧 Level</th>
+      <th>📌 Key Highlights</th>
+      <th>🔧 Proficiency</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>☁️ Microsoft Azure & CAF</td>
-      <td>Landing Zones, AKS, Entra ID, Defender, Policy</td>
-      <td>⭐⭐⭐⭐⭐</td>
+      <td>Landing Zones, Management Groups, Entra ID, Defender for Cloud, Azure Policy</td>
+      <td>⭐⭐⭐⭐⭐ Expert</td>
     </tr>
     <tr>
       <td>🏗️ Infrastructure as Code</td>
-      <td>Terraform modules, Bicep, remote state, semantic versioning</td>
-      <td>⭐⭐⭐⭐⭐</td>
+      <td>Terraform modules + workspaces, Bicep, remote state, semantic versioning, Terratest</td>
+      <td>⭐⭐⭐⭐⭐ Expert</td>
     </tr>
     <tr>
       <td>🛡️ DevSecOps Engineering</td>
-      <td>Shift-left pipelines, SAST/DAST/SCA, secrets mgmt</td>
-      <td>⭐⭐⭐⭐⭐</td>
+      <td>Shift-left security pipelines, SAST/DAST/SCA, secrets mgmt, compliance-as-code</td>
+      <td>⭐⭐⭐⭐⭐ Expert</td>
     </tr>
     <tr>
       <td>🌍 Cloud Migration (100+ Apps)</td>
-      <td>Discovery → Assessment → Cutover → Hypercare</td>
-      <td>⭐⭐⭐⭐⭐</td>
+      <td>Azure Migrate, discovery → assessment → wave planning → cutover → hypercare</td>
+      <td>⭐⭐⭐⭐⭐ Expert</td>
     </tr>
     <tr>
       <td>💸 FinOps & Cost Optimization</td>
-      <td>Rightsizing, Reserved Instances, scheduled shutdown</td>
-      <td>⭐⭐⭐⭐⭐</td>
+      <td>Rightsizing, Reserved Instances, auto-shutdown, tagging governance, 28% savings</td>
+      <td>⭐⭐⭐⭐⭐ Expert</td>
     </tr>
     <tr>
-      <td>🐳 Kubernetes & Containers</td>
-      <td>AKS, Helm, Istio, ArgoCD, GitOps workflows</td>
-      <td>⭐⭐⭐⭐⭐</td>
+      <td>🐳 Kubernetes & Platform Eng.</td>
+      <td>AKS, Helm, Istio mTLS, ArgoCD GitOps, OPA Gatekeeper, network policies</td>
+      <td>⭐⭐⭐⭐⭐ Expert</td>
     </tr>
     <tr>
-      <td>📊 Observability & SRE</td>
-      <td>Azure Monitor AMA, DCR, Grafana, PagerDuty</td>
-      <td>⭐⭐⭐⭐⭐</td>
+      <td>📊 SRE & Observability</td>
+      <td>Azure Monitor AMA/DCR, Prometheus, Grafana, Loki, SLO/SLI, error budgets</td>
+      <td>⭐⭐⭐⭐⭐ Expert</td>
     </tr>
     <tr>
       <td>🤝 Leadership & Governance</td>
-      <td>SOW, RACI, Vendor Mgmt, KT sessions, Pre-Sales</td>
-      <td>⭐⭐⭐⭐☆</td>
+      <td>SOW, RACI, Vendor Management, KT sessions, Pre-Sales, team mentoring (20+)</td>
+      <td>⭐⭐⭐⭐☆ Advanced</td>
     </tr>
   </tbody>
 </table>
@@ -358,22 +434,74 @@ const vikas = {
 
 <br/>
 
+<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
+<div align="center">
+
+## 📈 &nbsp;GitHub Statistics
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Vikas98Rao&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vikas98Rao&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" alt="GitHub Stats" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas98Rao&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&layout=compact&langs_count=8" alt="Top Languages" width="40%"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ CONTRIBUTION GRAPH ═══════════════════ -->
+<div align="center">
+
+## 🟩 &nbsp;Contribution Activity
+
+<a href="https://github.com/Vikas98Rao">
+  <img src="https://ghchart.rshah.org/58a6ff/Vikas98Rao" alt="Vikas Rao's GitHub Contribution Chart" width="95%"/>
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3" width="100%"/>
+
+<br/>
+
 <!-- ═══════════════════ CURRENTLY BUILDING ═══════════════════ -->
 ## 🌱 &nbsp;Currently Exploring
 
 <div align="center">
 
-| 🔬 Area | 📖 What I'm Doing |
-|---|---|
-| 🤖 Platform Engineering | Building Internal Developer Platforms with Backstage |
-| 🧠 AI/MLOps | Designing LLM infrastructure pipelines on Azure |
-| 🌐 eBPF & Cilium | Next-gen Kubernetes network observability |
-| 📜 Policy-at-Scale | OPA Gatekeeper + Azure Policy + Sentinel automation |
-| 💡 DR Automation | Chaos engineering + ASR + automated failover testing |
+| 🔬 Area | 📖 What I'm Doing | 🎯 Goal |
+|---|---|---|
+| 🤖 Platform Engineering | Building Internal Developer Platforms with Backstage | Reduce developer cognitive load |
+| 🧠 AI/MLOps on Azure | Designing LLM inference infrastructure & MLOps pipelines | Production-ready AI workloads |
+| 🌐 eBPF & Cilium | Next-gen Kubernetes network observability & security | Kernel-level visibility |
+| 📜 Policy-at-Scale | OPA Gatekeeper + Azure Policy + Sentinel automation | Zero-drift compliance |
+| 💡 Chaos Engineering | LitmusChaos + Azure Site Recovery + failover automation | Proven resilience |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,100:1f6feb&height=3" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════ OPEN TO WORK — CTA ═══════════════════ -->
+<div align="center">
+
+## 💼 &nbsp;Open to Opportunities
+
+<img src="https://img.shields.io/badge/Available_For-Senior_DevOps_Engineer-00d26a?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Available_For-DevSecOps_Architect-ff6e6e?style=for-the-badge&logo=security&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Available_For-Platform_Engineer-7B42BC?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<br/><br/>
+
+> 🎯 **Ideal Role**: Senior DevOps / DevSecOps / Platform Engineering position where I can architect scalable, secure cloud-native systems and lead high-performing infrastructure teams.
+
+> 📍 **Location**: India — Open to Remote / Hybrid / Relocation
+
+</div>
 
 <br/>
 
@@ -383,24 +511,20 @@ const vikas = {
 ## 🤝 &nbsp;Let's Build Something Extraordinary
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikasrao0054/)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikas98Rao)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikasrao0054@gmail.com)
 
 <br/>
 
 > 💬 *"Build it secure from day one — pipelines, infra, culture. Security is not a feature, it's a foundation."*
 >
-> **— Vikas Rao, Senior DevOps & DevSecOps Engineer**
+> **— Vikas Rao · Senior DevOps & DevSecOps Engineer**
 
 </div>
 
 <br/>
 
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Vikas98Rao&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="60%"/>
-
-</div>
-
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,30:1a1f35,70:1f6feb,100:58a6ff&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,30:1a1f35,70:1f6feb,100:58a6ff&height=150&section=footer&text=Thanks%20for%20Visiting!%20Let's%20Connect.&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
